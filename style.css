@@ -71,6 +71,7 @@ h1{
 	border: 1px solid orangered;
 	background-color: lightgrey;
 	color: black;
+	overflow:hidden;
 }
 
 .results > h2{
@@ -105,15 +106,6 @@ h1{
 	border-radius: 5px;
 	padding: 10px;
 }
-
-@media (min-width: 425px){
-
-	*{
-		left: 200%;
-	}
-
-}
-
 
 
 
